@@ -1,4 +1,4 @@
-![logo](https://github.com/MrOwaisAbdullah/MrOwaisAbdullah/blob/main/Owais%20Abdullah%20Certified%20Cloud%20Applied%20GenAI%20Engineer.png)
+![logo](https://github.com/MrOwaisAbdullah/MrOwaisAbdullah/blob/main/Owais%20Abdullah.png)
 <h1 align="center">Hi 👋, I'm Owais Abdullah</h1>
 <h3 align="center">Passionate Developer | AI Enthusiast | Digital Innovator</h3>
 
