@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrowaisabdullah&label=Profile%20views&color=0e75b6&style=flat" alt="mrowaisabdullah" style="border-radius: 50;"/> </p>
 
-<img src="[https://github.com/MrOwaisAbdullah/MrOwaisAbdullah/blob/main/coworking-male-programmer-writing-program-code.gif]" alt="mrowaisabdullah gen ai engineer" width="300" align="right">
+<img src="https://github.com/MrOwaisAbdullah/MrOwaisAbdullah/blob/main/coworking-male-programmer-writing-program-code.gif" alt="mrowaisabdullah gen ai engineer" width="300" align="right">
 
 - 🔭 I’m currently working as **Digital Marketer**
 
