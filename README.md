@@ -6,7 +6,7 @@
 
 <img src="https://github.com/MrOwaisAbdullah/MrOwaisAbdullah/blob/main/coworking-male-programmer-writing-program-code.gif" alt="mrowaisabdullah gen ai engineer" width="300" align="right">
 
-- 🔭 I’m currently working as **Digital Marketer**
+- 🔭 I’m currently working as **Web Designer & Digital Marketer**
 
 - 🌱 I’m currently learning **GenAI, MetaVerse and Web 3.0 technologies**
 
@@ -33,7 +33,5 @@
 <p><a href="https://www.buymeacoffee.com/mrowaisabdullah"> <img align="centre" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="mrowaisabdullah" /></a></p><br><br>
 
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrowaisabdullah&show_icons=true&locale=en&layout=compact" alt="mrowaisabdullah" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrowaisabdullah&show_icons=true&locale=en" alt="mrowaisabdullah" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrowaisabdullah&" alt="mrowaisabdullah" /></p>
