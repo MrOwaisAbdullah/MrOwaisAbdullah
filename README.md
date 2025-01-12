@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Owais Abdullah</h1>
 <h3 align="center">Passionate Developer | AI Enthusiast | Digital Innovator</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrowaisabdullah&label=Profile%20views&color=0e75b6&style=flat" alt="mrowaisabdullah" style="border-radius: 50;"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrowaisabdullah&label=Profile%20views&color=0e75b6&style=flat" alt="Owais Abdullah" style="border-radius: 50;"/> </p>
 
-<img src="https://github.com/MrOwaisAbdullah/MrOwaisAbdullah/blob/main/coworking-male-programmer-writing-program-code.gif" alt="mrowaisabdullah gen ai engineer" width="300" align="right">
+<img src="https://github.com/MrOwaisAbdullah/MrOwaisAbdullah/blob/main/coworking-male-programmer-writing-program-code.gif" alt="Owais Abdullah gen ai engineer" width="300" align="right">
 
 - 🔭 I’m currently working as **Web Designer & Digital Marketer**
 
@@ -34,9 +34,9 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mrowaisabdullah"> <img align="centre" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="mrowaisabdullah" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/mrowaisabdullah"> <img align="centre" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Owais Abdullah" /></a></p><br><br>
 
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrowaisabdullah&show_icons=true&locale=en&layout=compact" alt="mrowaisabdullah" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrowaisabdullah&show_icons=true&locale=en&layout=compact" alt="Owais Abdullah" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrowaisabdullah&" alt="mrowaisabdullah" /></p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MrOwaisAbdullah&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MrOwaisAbdullah&theme=dark" alt="Owais Abdullah GitHub Streak" /></a>
