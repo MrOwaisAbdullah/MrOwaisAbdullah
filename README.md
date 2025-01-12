@@ -39,4 +39,3 @@
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrowaisabdullah&show_icons=true&locale=en&layout=compact" alt="Owais Abdullah" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrowaisabdullah&" alt="mrowaisabdullah" /></p>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MrOwaisAbdullah&theme=dark" alt="Owais Abdullah GitHub Streak" /></a>
