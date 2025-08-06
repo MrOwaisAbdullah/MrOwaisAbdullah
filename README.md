@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **GenAI, MetaVerse and Web 3.0 technologies**
 
-- 👨‍💻 See my Portfolio at ([https://owaisabdullah.com](https://owais.oneklickdigi.com/))
+- 👨‍💻 See my Portfolio at ([https://owaisabdullah.dev](owaisabdullah.dev))
 
 - 💬 Ask me about **Digital Marketing, App Development, or anything AI-related!**
 
